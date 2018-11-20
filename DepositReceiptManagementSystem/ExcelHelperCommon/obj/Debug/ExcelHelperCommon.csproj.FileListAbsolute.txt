@@ -1,0 +1,16 @@
+D:\MyTestProject\githubProj\DJXT\DepositReceipt\DepositReceiptManagementSystem\ExcelHelperCommon\bin\Debug\ExcelHelperCommon.dll
+D:\MyTestProject\githubProj\DJXT\DepositReceipt\DepositReceiptManagementSystem\ExcelHelperCommon\bin\Debug\ExcelHelperCommon.pdb
+D:\MyTestProject\githubProj\DJXT\DepositReceipt\DepositReceiptManagementSystem\ExcelHelperCommon\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\MyTestProject\githubProj\DJXT\DepositReceipt\DepositReceiptManagementSystem\ExcelHelperCommon\bin\Debug\Models.dll
+D:\MyTestProject\githubProj\DJXT\DepositReceipt\DepositReceiptManagementSystem\ExcelHelperCommon\bin\Debug\NPOI.dll
+D:\MyTestProject\githubProj\DJXT\DepositReceipt\DepositReceiptManagementSystem\ExcelHelperCommon\bin\Debug\NPOI.OOXML.dll
+D:\MyTestProject\githubProj\DJXT\DepositReceipt\DepositReceiptManagementSystem\ExcelHelperCommon\bin\Debug\NPOI.OpenXml4Net.dll
+D:\MyTestProject\githubProj\DJXT\DepositReceipt\DepositReceiptManagementSystem\ExcelHelperCommon\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\MyTestProject\githubProj\DJXT\DepositReceipt\DepositReceiptManagementSystem\ExcelHelperCommon\bin\Debug\Models.pdb
+D:\MyTestProject\githubProj\DJXT\DepositReceipt\DepositReceiptManagementSystem\ExcelHelperCommon\obj\Debug\ExcelHelperCommon.csprojAssemblyReference.cache
+D:\MyTestProject\githubProj\DJXT\DepositReceipt\DepositReceiptManagementSystem\ExcelHelperCommon\obj\Debug\ExcelHelperCommon.csproj.CoreCompileInputs.cache
+D:\MyTestProject\githubProj\DJXT\DepositReceipt\DepositReceiptManagementSystem\ExcelHelperCommon\obj\Debug\ExcelHelperCommon.csproj.CopyComplete
+D:\MyTestProject\githubProj\DJXT\DepositReceipt\DepositReceiptManagementSystem\ExcelHelperCommon\obj\Debug\ExcelHelperCommon.dll
+D:\MyTestProject\githubProj\DJXT\DepositReceipt\DepositReceiptManagementSystem\ExcelHelperCommon\obj\Debug\ExcelHelperCommon.pdb
+D:\MyTestProject\githubProj\DJXT\DepositReceipt\DepositReceiptManagementSystem\ExcelHelperCommon\bin\Debug\CommonHelper.dll
+D:\MyTestProject\githubProj\DJXT\DepositReceipt\DepositReceiptManagementSystem\ExcelHelperCommon\bin\Debug\CommonHelper.pdb

@@ -1,0 +1,6 @@
+D:\MyTestProject\githubProj\DJXT\DepositReceipt\DepositReceiptManagementSystem\CommonHelper\bin\Debug\CommonHelper.dll
+D:\MyTestProject\githubProj\DJXT\DepositReceipt\DepositReceiptManagementSystem\CommonHelper\bin\Debug\CommonHelper.pdb
+D:\MyTestProject\githubProj\DJXT\DepositReceipt\DepositReceiptManagementSystem\CommonHelper\obj\Debug\CommonHelper.csprojAssemblyReference.cache
+D:\MyTestProject\githubProj\DJXT\DepositReceipt\DepositReceiptManagementSystem\CommonHelper\obj\Debug\CommonHelper.csproj.CoreCompileInputs.cache
+D:\MyTestProject\githubProj\DJXT\DepositReceipt\DepositReceiptManagementSystem\CommonHelper\obj\Debug\CommonHelper.dll
+D:\MyTestProject\githubProj\DJXT\DepositReceipt\DepositReceiptManagementSystem\CommonHelper\obj\Debug\CommonHelper.pdb

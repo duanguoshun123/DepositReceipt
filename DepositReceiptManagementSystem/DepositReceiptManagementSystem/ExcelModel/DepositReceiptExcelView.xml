@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<module>
+  <add ExportFieldName="药品编号"                   PropertyName="Number"                                   DataType="String"/>
+  <add ExportFieldName="药品名"                     PropertyName="Drugname"                                     DataType="String"/>
+  <add ExportFieldName="数量"                     PropertyName="Quantity"                                   DataType="Int"/>
+  <add ExportFieldName="数量单位"                     PropertyName="UnitName"                                     DataType="string"/>
+  <add ExportFieldName="价格"                     PropertyName="Price"                          DataType="Decimal2"/>
+  <add ExportFieldName="订单日期"                     PropertyName="OrderTime"                                 DataType="Date"/>
+</module>
